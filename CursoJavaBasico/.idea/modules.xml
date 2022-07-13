@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CursoJavaBasico.iml" filepath="$PROJECT_DIR$/CursoJavaBasico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAulas/JavaAulas.iml" filepath="$PROJECT_DIR$/JavaAulas/JavaAulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaExercicios/JavaExercicios.iml" filepath="$PROJECT_DIR$/JavaExercicios/JavaExercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaExercicios2/JavaExercicios2.iml" filepath="$PROJECT_DIR$/JavaExercicios2/JavaExercicios2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaExercicios3/JavaExercicios3.iml" filepath="$PROJECT_DIR$/JavaExercicios3/JavaExercicios3.iml" />
+    </modules>
+  </component>
+</project>
