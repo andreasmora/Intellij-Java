@@ -4,7 +4,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="JavaAulas" options="--add-modules java.base" />
       <module name="JavaExercicios3" options="--add-modules java.base" />
-      <module name="Poo1" options="--add-modules java.base" />
+      <module name="Poo_Aulas" options="--add-modules java.base" />
     </option>
   </component>
 </project>
