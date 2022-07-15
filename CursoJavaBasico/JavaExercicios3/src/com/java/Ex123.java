@@ -57,6 +57,7 @@
                         System.out.println("Entrada invalida, digite novamente.");
                     }
                 }
+                // verifica posicao valida
                 linha--;
                 coluna--;
 
