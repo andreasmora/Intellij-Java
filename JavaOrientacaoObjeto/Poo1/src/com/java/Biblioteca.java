@@ -1,13 +1,16 @@
     package com.java;
 
-    public class LivrariaLivro {
+    import java.util.Date;
+
+    public class Biblioteca {
 
         String nome;
         String autor;
         int qtdPaginas;
         int anoLancamento;
         String isbn;
-        double preco;
 
-
+        boolean emprestado;
+        Date dataEntrega;
+        String emprestadoA;
     }

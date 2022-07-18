@@ -1,11 +1,11 @@
-package com.java;
+    package com.java;
 
-public class Carro {
+    public class Carro {
 
-    String marca;
-    String modelo;
-    int numPassageiros;
-    double capCombustivel;
-    double consumoCombustivel;
+        String marca;
+        String modelo;
+        int numPassageiros;
+        double capCombustivel;
+        double consumoCombustivel;
 
-}
+    }
