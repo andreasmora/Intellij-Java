@@ -2,7 +2,7 @@
 // saldo, um status que informa se ela e especial, ou nao, um  limite.
 
     package com.java;
-
+    // CLASSE DE TESTE
     public class ContaCorrente {
         public static void main(String[] args) {
 
