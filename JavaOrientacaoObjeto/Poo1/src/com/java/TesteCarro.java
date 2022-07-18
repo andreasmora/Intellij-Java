@@ -14,16 +14,14 @@
 
             van.exibirAutonomia();
 
-            Carro fusca = new Carro();
-            fusca.marca = "Volkswagen";
-            fusca.modelo = "Fusca";
-            fusca.numPassageiros = 4;
-            fusca.capCombustivel = 30;
-            fusca.consumoCombustivel = 0.15;
+            double autonomia = van.obterAutonomia();
+            System.out.println("A autonomia do carro e: " + autonomia);
 
-            System.out.println(fusca.marca);
-            System.out.println(fusca.modelo);
+            double qtdCombustivel10 = van.calcularCombustivel(10);
+            double qtdCombustivel15 = van.calcularCombustivel(15);
 
-            van.exibirAutonomia();
+            System.out.println("qtdCombustivel10 = " + qtdCombustivel10);
+            System.out.println("qtdCombustivel15 = " + qtdCombustivel15);
+
         }
     }
