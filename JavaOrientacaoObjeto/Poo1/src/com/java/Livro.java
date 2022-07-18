@@ -6,7 +6,7 @@ public class Livro {
     String autor;
     int qtdPaginas;
     int anoLamcamento;
-    String isbn;
+    String isbn; // registro de codigo unico para cada livro....
 
 
 }
