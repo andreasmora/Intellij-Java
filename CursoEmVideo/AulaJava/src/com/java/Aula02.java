@@ -1,5 +1,4 @@
 package com.java;
-
 import java.util.Scanner;
 
 public class Aula02 {
@@ -25,3 +24,4 @@ public class Aula02 {
 
     }
 }
+
